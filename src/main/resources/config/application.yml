@@ -145,8 +145,8 @@ jhipster:
         from: ifrisuaa@localhost
     swagger:
         default-include-pattern: /api/.*
-        title: ifrisuaa API
-        description: ifrisuaa API documentation
+        title: IFRIS UAA API
+        description: UAA API documentation
         version: 0.0.1
         terms-of-service-url:
         contact-name:

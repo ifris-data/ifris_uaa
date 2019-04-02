@@ -1,9 +1,9 @@
 {
     "name": "ifrisuaa",
-    "version": "0.0.0",
-    "description": "Description for ifrisuaa",
+    "version": "0.0.1",
+    "description": "Authentication server for IFRIS system",
     "private": true,
-    "license": "UNLICENSED",
+    "license": "MIT",
     "cacheDirectories": [
         "node_modules"
     ],

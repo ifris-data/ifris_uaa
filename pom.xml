@@ -3,10 +3,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.ifris.uaa</groupId>
-    <artifactId>ifrisuaa</artifactId>
+    <artifactId>ifris-uaa</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>Ifrisuaa</name>
+    <name>IFRIS UAA</name>
 
     <repositories>
         <!-- jhipster-needle-maven-repository -->

@@ -6,5 +6,5 @@ ${AnsiColor.GREEN}  #  #       #   #    #        # ${AnsiColor.RED}
 ${AnsiColor.GREEN}  #  #       #    #   #  #     # ${AnsiColor.RED}
 ${AnsiColor.GREEN} ### #       #     # ###  #####  ${AnsiColor.RED}
 
-${AnsiColor.BRIGHT_BLUE}:: IFRIS 🤓  :: Running Spring Boot ${spring-boot.version} ::
+${AnsiColor.BRIGHT_BLUE}:: IFRIS UAA SERVER 🤓  :: Running Spring Boot ${spring-boot.version} ::
 :: https://github.com/ifris-data ::${AnsiColor.DEFAULT}
